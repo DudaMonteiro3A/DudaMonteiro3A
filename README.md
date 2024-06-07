@@ -2,7 +2,7 @@
 
 Meu nome é Maria Eduarda Monteiro
 
-- Estou estudando na Alura
+- Estou estudando na Alura- link do projeto: https://editor.p5js.org/duddamonteiro3A/sketches/icwGmxcPh
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
